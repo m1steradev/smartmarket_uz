@@ -5,6 +5,8 @@ name = "pypi"
 
 [packages]
 aiogram = "==2.25.1"
+dispatcher = "*"
+dp = "*"
 
 [dev-packages]
 
